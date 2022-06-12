@@ -12,6 +12,9 @@ public class Human {
     final public String getName() {
         return this.name;
     }
-
+    
+    public int getAge() {
+        return this.age;
+    }
 
 }
