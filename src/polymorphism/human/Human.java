@@ -8,5 +8,10 @@ public class Human {
         this.name = name;
         this.age = age;
     }
+    
+    final public String getName() {
+        return this.name;
+    }
+
 
 }
